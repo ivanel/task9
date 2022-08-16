@@ -10,6 +10,7 @@
 		<p><b>This is new example in the task9</b></p>
 		<p><b>This is an example line added by ivanel</b></p>
 		<p><b>This is an example second line added by ivanel</b></p>
+		<p><b>This is a new line added by ivanel in test-ivanel branch</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information</h2> 
